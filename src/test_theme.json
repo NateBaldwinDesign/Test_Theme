@@ -1,0 +1,19 @@
+{
+  "themeId": "theme-test-a",
+  "systemId": "test-design-system-1234-5678-9012",
+  "tokenOverrides": [
+    {
+      "tokenId": "token-9999-9999-9999",
+      "valuesByMode": [
+        {
+          "modeIds": [
+            "modeId-light"          
+        ],
+          "value": {
+            "value": "#FF00FF"
+          }
+        }
+      ]
+    }
+  ]
+} 
