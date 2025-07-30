@@ -1,6 +1,6 @@
 {
   "themeId": "theme-test-a",
-  "systemId": "test-design-system-1234-5678-9012",
+  "systemId": "nates-design-system",
   "tokenOverrides": [
     {
       "tokenId": "token-9999-9999-9999",
