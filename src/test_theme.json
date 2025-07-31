@@ -3,7 +3,7 @@
   "systemId": "nates-design-system",
   "tokenOverrides": [
     {
-      "tokenId": "token-9999-9999-9999",
+      "tokenId": "token-7777-7777-7777",
       "valuesByMode": [
         {
           "modeIds": [
@@ -11,6 +11,20 @@
         ],
           "value": {
             "value": "#0000ff"
+          }
+        }
+      ]
+    },
+    {
+      "tokenId": "token-platform-custom-0000-0000-0000",
+      "displayName": "I made fuchsia green!",
+      "valuesByMode": [
+        {
+          "modeIds": [
+            "modeId-light"          
+        ],
+          "value": {
+            "value": "#00ff00"
           }
         }
       ]
