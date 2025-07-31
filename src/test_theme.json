@@ -6,9 +6,7 @@
       "tokenId": "token-7777-7777-7777",
       "valuesByMode": [
         {
-          "modeIds": [
-            "modeId-light"          
-        ],
+          "modeIds": [],
           "value": {
             "value": "#0000ff"
           }
@@ -20,9 +18,7 @@
       "displayName": "I made fuchsia green!",
       "valuesByMode": [
         {
-          "modeIds": [
-            "modeId-light"          
-        ],
+          "modeIds": [],
           "value": {
             "value": "#00ff00"
           }
